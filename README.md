@@ -7,6 +7,7 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, 
 How to Activate Windows / Office?
 
 Method 1 - PowerShell (Windows 8 and later) ❤️
+
 1.Open PowerShell
 To do that, press the Windows key + X, then select PowerShell or Terminal.
 
